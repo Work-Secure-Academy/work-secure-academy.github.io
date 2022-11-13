@@ -18,4 +18,4 @@ With small groups of students, our instructors can work closely with each studen
 Our instructors follow a modified personalized approach to engage students during class and give the required attention.
 
 
-You can arrange course by emailing us at [training@worksecure.online](mailto:training@worksecure.online).
+You can arrange a course by emailing us at [training@worksecure.online](mailto:training@worksecure.online).
