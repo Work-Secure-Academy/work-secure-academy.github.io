@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Work Secure Academy
 tagline:          'IT Training'
-description:      'IT Training'
+description:      'Training for IT and CyberSecurity Professionals'
 url:              https://worksecure.online
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Work Secure Academy
+  url:            https://linkedin.com/company/work-secure-academy
 
 paginate:         5
 
