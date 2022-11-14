@@ -3,8 +3,6 @@ layout: post
 title: On-Demand Training
 ---
 
-# On-Demand Training
-
 On-Demand Training is a flexible alternative to remote training that allows you to study at your own pace. At Work Secure Academy, we focus on Microsoft 365, Identity and Endpoint Security.
 
 We have the following On-Demand Training available:
